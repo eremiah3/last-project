@@ -41,7 +41,16 @@
     color:#fff;
     margin-left: 30px;
     margin-right: 30px;
+    width: 1190px;
 }
+.league{
+    background-color: black;
+    height: 250%;
+    margin-top: 20px;
+   
+}
+
+
 .greatest{
     margin-left: 30px;
     margin-right: 30px;
@@ -67,6 +76,9 @@
     margin-left: 30px;
     margin-right: 30px;
 } */
+.row{
+    margin-left: -100px;
+}
 .nav-item{
     margin-right: 20px;
 }
@@ -142,7 +154,8 @@ img{
 }
 .bu{
     margin-left: 700px;
-    margin-top: -230px;
+    margin-top: -250px;
+
 }
 .pppp{
     margin-top: -270px;
